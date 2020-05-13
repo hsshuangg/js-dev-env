@@ -1,4 +1,6 @@
 {
     "javascript.preferences.quoteStyle": "single",
-    "typescript.preferences.quoteStyle": "single"
+    "typescript.preferences.quoteStyle": "single",
+    "prettier.trailingComma": "none",
+    "files.trimTrailingWhitespace": true
 }
